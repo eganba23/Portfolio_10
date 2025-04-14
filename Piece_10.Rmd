@@ -1,0 +1,9 @@
+---
+title: "Piece_10 - Updated the website"
+author: "Benjamin Egan"
+output: html_document
+---
+
+#### Created 4/14/2025
+
+There is a template for updating the visuals of the website version of the portfolios.
