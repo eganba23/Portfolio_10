@@ -6,4 +6,4 @@ output: html_document
 
 #### Created 4/14/2025
 
-There is a template for updating the visuals of the website version of the portfolios.
+As part of the Data Science for Psychologists course, we are required to create 10 independent projects called portfolio pieces.
